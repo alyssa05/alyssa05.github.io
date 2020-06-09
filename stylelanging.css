@@ -1,0 +1,44 @@
+* {
+	text-align: left;
+}
+
+hr {
+	max-width: 65px;
+	margin-top: 150px;
+	margin-bottom: 0px;
+}
+
+body {
+	background-image: url(jorge-gardner-tCtnz_NkYG4-unsplash.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: Arial;
+}
+
+header.startup {
+	height:100%;
+
+}
+
+header.startup hr {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+header.startup h1 {
+	font-size: 2rem;
+	color: #FFCAD6;
+}
+
+
+.btn-light {
+	align-items: left;
+	font-weight: 700;
+	font-family: Arial;
+	background-color: white;
+}
+
+.btn-light:hover {
+	background-color: #FFCAD6;
+}
+
